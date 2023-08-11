@@ -1,0 +1,73 @@
+@media all {
+	body
+	{
+		FONT-SIZE: 9pt; 
+		FONT-FAMILY: Verdana;
+	}
+	td {FONT-SIZE: 10pt; }
+	th 
+	{
+		font-weight: bold;
+		FONT-SIZE: 12pt; 
+		FONT-FAMILY: Verdana;
+	}
+	.odd {background-color:#dcdcdc;}
+	.even {background-color:white;}
+	.hidden {display:none;}
+	table.bordered
+	{
+		border-collapse:collapse;
+		width:900px;
+	}
+	table.bordered, table.bordered td, table.bordered th
+	{
+		border:1px solid black;
+		vertical-align: top;
+		padding: .1em .2em
+	}
+	.StandTypeContainer
+	{
+		margin-left:20px;
+	}
+	.StandContainer
+	{
+		margin-left:40px;
+	}
+	.col1 {width:200px;}
+	
+	.delete {color: red; text-align:right;float:right; cursor:pointer;}
+	
+	.ResultsTab {width:880px;display:block;}
+	
+}
+
+@media print {
+	.noprint {
+		display: none;
+	}
+.ResultsTab {width:100%;display:block;}
+
+table.bordered {
+	width: -moz-calc(100% - 50px);
+	width: -webkit-calc(100% - 50px);
+	width: calc(100% - 50px);
+	margin-left: 4px;
+	}
+
+body
+	{
+		FONT-SIZE: 10pt; 
+		FONT-FAMILY: Verdana, arial,sans-serif;
+	}
+td {FONT-SIZE: 10pt; FONT-FAMILY: Verdana, arial,sans-serif; }
+th 
+	{
+		font-weight: bold;
+		FONT-SIZE: 10pt; 
+		FONT-FAMILY: Verdana;
+	}
+	#content-wrapper {
+		height: 100%;
+		width: 100%;
+	}
+}

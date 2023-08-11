@@ -1,0 +1,213 @@
+@font-face {
+  font-family: "Helvetica-Condensed";
+  src: url("../fonts/Helvetica-Condensed.otf");
+  }
+  
+  @font-face {
+  font-family: "Helvetica-Condensed-Bold";
+  src: url("../fonts/Helvetica-Condensed-Bold.otf");
+  }
+   
+@font-face {
+  font-family: "Helvetica-Condensed-Black";
+  src: url("../fonts/Helvetica-Condensed-Black.otf");
+  }
+@font-face {
+  font-family: "Helvetica-Condensed-Light";
+  src: url("../fonts/Helvetica-Condensed-Light.otf");
+  }
+@font-face {
+  font-family: "Helvetica-Bold";
+  src: url("../fonts/Helvetica-Bold.otf");
+  }
+@font-face {
+  font-family: "Helvetica-Condensed-Oblique";
+  src: url("../fonts/Helvetica-Condensed-Oblique.otf");
+  }
+@font-face {
+  font-family: "Helvetica-Condensed-LightObl";
+  src: url("../fonts/Helvetica-Condensed-LightObl.otf");
+  }
+@font-face {
+  font-family: "DoubleDigits-Round";
+  src: url("../fonts/DoubleDigitsRound.ttf");
+  }
+@font-face {
+  font-family: "StencilStd";
+  src: url("../fonts/StencilStd.otf");
+  }
+ /*font-family="'DoubleDigits-Round'" font-size="14.5"*/
+ .dr {
+	font-family:DoubleDigits-Round; font-size:14.5px;
+ }
+ 
+ /*font-family="'Arial-Black'" font-size="9"*/
+.ab {
+	font-family:Arial-Black; font-size:9px;
+}
+/*font-family="'Helvetica'" font-size="6"*/
+.h6 {
+	font-family:Helvetica;
+	font-size:6px;
+}
+/*font-family="'Helvetica'" font-size="8"*/
+.h8 {
+	font-family:Helvetica;
+	font-size:8px;
+}
+/*font-family="'Helvetica-Bold'" font-size="6"*/
+.hb6 {
+	font-family:Helvetica-Bold;
+	font-size:6px;
+}
+/*font-family="'Helvetica-Bold'" font-size="10.2"*/ 
+.hb10_2 {
+	font-family:Helvetica-Bold;
+	font-size:10.2px;
+}
+/*font-family="'Helvetica-Bold'" font-size="12"*/
+.hb12 {
+	font-family:Helvetica-Bold;
+	font-size:12px;
+}
+
+/*font-family="'Helvetica-Condensed-Black'" font-size="9"*/
+.bl9 {
+	font-family:Helvetica-Condensed-Black;
+	font-size:9px;
+}
+/*font-family="'Helvetica-Condensed'" font-size="5.6"*/
+.hc5_6 {
+	font-family:Helvetica-Condensed;
+	font-size:5.6px;
+}
+/*font-family="'Helvetica-Condensed'" font-size="6"*/
+.hc6 {
+	font-family:Helvetica-Condensed;
+	font-size:6px;
+}
+/*font-family="'Helvetica-Condensed'" font-size="7"*/
+.hc7 {
+	font-family:Helvetica-Condensed;
+	font-size:7px;
+}
+/*font-family="'Helvetica-Condensed'" font-size="8"*/
+.hc8 {
+	font-family:Helvetica-Condensed;
+	font-size:8px;
+}
+/*font-family="'Helvetica-Condensed'" font-size="9"*/
+.hc9 {
+	font-family:Helvetica-Condensed;
+	font-size:9px;
+}
+
+/*font-family="'Helvetica-Condensed-Bold'" font-size="5.6"*/
+.hcb5_6 {
+	font-family:Helvetica-Condensed-Bold;
+	font-size:5.6px;
+}
+/*font-family="'Helvetica-Condensed-Bold'" font-size="6"*/
+.hcb6 {
+	font-family:Helvetica-Condensed-Bold;
+	font-size:6px;
+}
+/*font-family="'Helvetica-Condensed-Bold'" font-size="7"*/
+.hcb7{
+	font-family:Helvetica-Condensed-Bold;
+	font-size:7px;
+}
+/*font-family="'Helvetica-Condensed-Bold'" font-size="7.2"*/
+.hcb67_2{
+	font-family:Helvetica-Condensed-Bold;
+	font-size:7.2px;
+}
+/*font-family="'Helvetica-Condensed-Bold'" font-size="8"*/
+.hcb8 {
+	font-family:Helvetica-Condensed-Bold;
+	font-size:8px;
+}
+/*font-family="'Helvetica-Condensed-Bold'" font-size="8.1"*/
+.hcb8_1 {
+	font-family:Helvetica-Condensed-Bold;
+	font-size:8.1px;
+}
+/*font-family="'Helvetica-Condensed-Bold'" font-size="9"*/
+.hcb9 {
+	font-family:Helvetica-Condensed-Bold;
+	font-size:9px;
+}
+/*font-family="'Helvetica-Condensed-Bold'" font-size="11"*/
+.hcb11 {
+	font-family:Helvetica-Condensed-Bold;
+	font-size:11px;
+}
+
+/*font-family="'Helvetica-Condensed-Light'" font-size="4.69"*/
+.hcl4_69 {
+	font-family:Helvetica-Condensed-Light;
+	font-size:4.69px;
+}
+/*font-family="'Helvetica-Condensed-Light'" font-size="5"*/
+.hcl5 {
+	font-family:Helvetica-Condensed-Light;
+	font-size:5px;
+}
+/*font-family="'Helvetica-Condensed-Light'" font-size="6"*/
+.hcl6 {
+	font-family:Helvetica-Condensed-Light;
+	font-size:6px;
+}
+/*font-family="'Helvetica-Condensed-Light'" font-size="7"*/
+.hcl7 {
+	font-family:Helvetica-Condensed-Light;
+	font-size:7px;
+}
+/*font-family="'Helvetica-Condensed-Light'" font-size="8"*/
+.hcl8 {
+	font-family:Helvetica-Condensed-Light;
+	font-size:8px;
+}
+
+/*font-family="'Helvetica-Condensed-LightObl'" font-size="6"*/
+.hclo6 {
+	font-family:Helvetica-Condensed-LightObl;
+	font-size:6px;
+}
+/*font-family="'Helvetica-Condensed-LightObl'" font-size="6.3"*/
+.hclo6_3 {
+	font-family:Helvetica-Condensed-LightObl;
+	font-size:6.3px;
+}
+
+/*font-family="'Helvetica-Condensed-Oblique'" font-size="7.2"*/
+.hco7_2 {
+	font-family:Helvetica-Condensed-Oblique;
+	font-size:7.2px;
+}
+/*font-family="'Helvetica-Condensed-Oblique'" font-size="8"*/
+.hco8 {
+	font-family:Helvetica-Condensed-Oblique;
+	font-size:8px;
+}
+/*font-family="'Helvetica-Condensed-Oblique'" font-size="9"*/
+.hco9 {
+	font-family:Helvetica-Condensed-Oblique;
+	font-size:9px;
+}
+
+/*font-family="'StencilStd'" font-size="10"*/
+.s10 {
+	font-family:StencilStd;
+	font-size:10px;
+}
+
+
+
+	.maintitle {
+		font-family: "StencilStd";
+	}
+	.subtitle {
+		font-family: "StencilStd";
+		font-style: "italic"
+	}

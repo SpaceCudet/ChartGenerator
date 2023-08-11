@@ -1,0 +1,23 @@
+var us_tanks = {
+        "name": "Tanks",
+        "stands": [
+	{"name": "Locust Airborne Light tank",   "class": "III",   "move": "80/40T ",   "def": "2/1S",   "year": "43",   "weapons": [{"name": "T:37L53",   "ammoTypes": "2895"},{"name": "T:MG",   "ammoTypes": "2896"}]}
+,{"name": "M3 & M5 Stuart Light tank ",   "class": "IV",   "move": "36/20T ",   "def": "4/3S",   "year": "41",   "weapons": [{"name": "T:37L53",   "ammoTypes": "2897"},{"name": "T,H,P:MG",   "ammoTypes": "2898"}]}
+,{"name": "M3 A1 Satan Flame tank",   "class": "IV",   "move": "36/20T ",   "def": "4/3S",   "year": "42",   "weapons": [{"name": "T:FT",   "ammoTypes": "2899"},{"name": "TP,H:MG",   "ammoTypes": "2900"}]}
+,{"name": "M24 Chaffee Light tank",   "class": "IV",   "move": "36/20T ",   "def": "5/3S",   "year": "45",   "weapons": [{"name": "T:75L38",   "ammoTypes": "2901"},{"name": "T,H:MG",   "ammoTypes": "2902"},{"name": "TP:HMG",   "ammoTypes": "2903"}]}
+,{"name": "M3 Lee Medium tank",   "class": "V",   "move": "24/12T ",   "def": "7/4S",   "year": "42",   "weapons": [{"name": "H:75L28",   "ammoTypes": "2904"},{"name": "T:37L53",   "ammoTypes": "2905"},{"name": "T:MG",   "ammoTypes": "2906"}]}
+,{"name": "M4 Sherman (75mm) tank (early)",   "class": "V",   "move": "28/12T ",   "def": "7/4S",   "year": "42",   "weapons": [{"name": "T:75L38",   "ammoTypes": "2907"},{"name": "T,H:MG",   "ammoTypes": "2908"},{"name": "TP:HMG",   "ammoTypes": "2909"}]}
+,{"name": "M4 Sherman (75mm) Tank",   "class": "V",   "move": "28/12T ",   "def": "8/4S",   "year": "43",   "weapons": [{"name": "T:75L38",   "ammoTypes": "2910"},{"name": "T,H:MG",   "ammoTypes": "2911"},{"name": "TP:HMG",   "ammoTypes": "2912"}]}
+,{"name": "M4 Sherman (75mm) DD Tank",   "class": "V",   "move": "28/12T ",   "def": "8/4S",   "year": "44",   "weapons": [{"name": "T:75L38",   "ammoTypes": "2913"},{"name": "T,H:MG",   "ammoTypes": "2914"},{"name": "TP:HMG",   "ammoTypes": "2915"}]}
+,{"name": "M4 Sherman (75mm) Tank \"Calliope\"",   "class": "V",   "move": "28/12T ",   "def": "8/4S",   "year": "44",   "weapons": [{"name": "T:75L38",   "ammoTypes": "2916"},{"name": "T,H:MG",   "ammoTypes": "2917"},{"name": "4.5” Rckts",   "ammoTypes": "2918"}]}
+,{"name": "M4 Sherman (76mm) tank ",   "class": "V",   "move": "28/12T ",   "def": "8/4S",   "year": "44",   "weapons": [{"name": "T:76L52",   "ammoTypes": "2919"},{"name": "T,H:MG",   "ammoTypes": "2920"},{"name": "TP:HMG",   "ammoTypes": "2921"}]}
+,{"name": "M4 Sherman DD (76mm) tank ",   "class": "V",   "move": "28/12T ",   "def": "8/4S",   "year": "45",   "weapons": [{"name": "T:76L52",   "ammoTypes": "2922"},{"name": "T,H:MG",   "ammoTypes": "2923"},{"name": "TP:HMG",   "ammoTypes": "2924"}]}
+,{"name": "T1E3 Aunt Jemima Mine roller",   "class": "V",   "move": "20/10T ",   "def": "8/4S",   "year": "44",   "weapons": [{"name": "T:76L52",   "ammoTypes": "2925"},{"name": "T,H:MG",   "ammoTypes": "2926"},{"name": "TP:HMG",   "ammoTypes": "2927"}]}
+,{"name": "M4E4-5 Zippo Flame tank",   "class": "V",   "move": "28/12T ",   "def": "8/4S",   "year": "45",   "weapons": [{"name": "T:75L38",   "ammoTypes": "2928"},{"name": "T,H:MG",   "ammoTypes": "2929"},{"name": "TP:HMG",   "ammoTypes": "2930"},{"name": "H:FT-4",   "ammoTypes": "2931"}]}
+,{"name": "M4A3 E2 Sherman (75mm) \"Jumbo\"",   "class": "V",   "move": "22/10T ",   "def": "13/8S",   "year": "44",   "weapons": [{"name": "T:75L38",   "ammoTypes": "2932"},{"name": "T,H:MG",   "ammoTypes": "2933"},{"name": "TP:HMG",   "ammoTypes": "2934"}]}
+,{"name": "M4A3 E2 Sherman (76mm) \"Jumbo\" ",   "class": "V",   "move": "22/10T ",   "def": "13/8S",   "year": "44",   "weapons": [{"name": "T:76L52",   "ammoTypes": "2935"},{"name": "T,H:MG",   "ammoTypes": "2936"},{"name": "TP:HMG",   "ammoTypes": "2937"}]}
+,{"name": "M4A3 E8 Sherman \"Easy Eight\" Medium tank",   "class": "V",   "move": "30/14T ",   "def": "9/4S",   "year": "45",   "weapons": [{"name": "T:76L52",   "ammoTypes": "2938"},{"name": "T,H:MG",   "ammoTypes": "2939"},{"name": "TP:HMG",   "ammoTypes": "2940"}]}
+,{"name": "M4 Sherman (105mm) Assault Gun",   "class": "V",   "move": "28/12T ",   "def": "8/4S",   "year": "44",   "weapons": [{"name": "T:105L23",   "ammoTypes": "2941"},{"name": "T,H:MG",   "ammoTypes": "2942"},{"name": "TP:HMG",   "ammoTypes": "2943"}]}
+,{"name": "M26E1 Pershing Heavy tank",   "class": "VI",   "move": "24/12T ",   "def": "11/5S",   "year": "45",   "weapons": [{"name": "T:90L50",   "ammoTypes": "2944"},{"name": "T,H:MG",   "ammoTypes": "2945"},{"name": "TP:HMG",   "ammoTypes": "2946"}]}
+
+]};

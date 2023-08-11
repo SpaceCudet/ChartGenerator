@@ -1,0 +1,16 @@
+var fr_aircraft = {"name": "Aircraft","stands": [
+	{"name": "Potez 631", "type": "Fighter", "year": "1938", "strafe": "4(5)2", "rocket": "---", "bomb": "---", "air2air": "3"}, 
+	{"name": "Ms-406", "type": "Fighter", "year": "1938", "strafe": "2(4)1", "rocket": "---", "bomb": "---", "air2air": "4"}, 
+	{"name": "C-714", "type": "Fighter", "year": "1939", "strafe": "3(4)1", "rocket": "---", "bomb": "---", "air2air": "4"}, 
+	{"name": "Bloch 152", "type": "Fighter", "year": "1939", "strafe": "2(5)2", "rocket": "---", "bomb": "---", "air2air": "5"}, 
+	{"name": "D-520", "type": "Fighter", "year": "1940", "strafe": "3(5)1", "rocket": "---", "bomb": "---", "air2air": "5"}, 
+	{"name": "NC-600", "type": "Fighter", "year": "1939", "strafe": "3(5)1", "rocket": "---", "bomb": "---", "air2air": "4"}, 
+	{"name": "VG-33", "type": "Fighter", "year": "1940", "strafe": "3(5)1", "rocket": "---", "bomb": "---", "air2air": "6"}, 
+	{"name": "Br 691", "type": "Attack", "year": "1939", "strafe": "2(4)1", "rocket": "---", "bomb": "1(4)1", "air2air": "[3]"}, 
+	{"name": "Amiot 143", "type": "MdB", "year": "1935", "strafe": "---", "rocket": "---", "bomb": "1(5)1", "air2air": "[2]"}, 
+	{"name": "Amiot 354", "type": "MdB", "year": "1940", "strafe": "---", "rocket": "---", "bomb": "1(5)1", "air2air": "[4]"}, 
+	{"name": "Bloch 210", "type": "MdB", "year": "1935", "strafe": "---", "rocket": "---", "bomb": "1(5)1.5", "air2air": "[1]"}, 
+	{"name": "Bloch 131", "type": "MdB", "year": "1938", "strafe": "---", "rocket": "---", "bomb": "1(5)1", "air2air": "[2]"}, 
+	{"name": "LeO 451", "type": "MdB", "year": "1939", "strafe": "---", "rocket": "---", "bomb": "1(5)1.5", "air2air": "[4]"}, 
+	{"name": "V.298", "type": "MdB", "year": "1938", "strafe": "---", "rocket": "---", "bomb": "1(5)1", "air2air": "[1]"}, 
+	{"name": "F.222", "type": "HvB", "year": "1937", "strafe": "---", "rocket": "---", "bomb": "1(6)4", "air2air": "[1]"} ]};
